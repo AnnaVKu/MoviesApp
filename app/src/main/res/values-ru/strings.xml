@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch_trailer">Запустить трейлер</string>
+    <string name="big_poster">Большой постер</string>
+    <string name="popularity">Популярные</string>
+    <string name="rating">Самые рейтинговые</string>
+    <string name="movie_s_poster">Постер</string>
+    <string name="title">Название:</string>
+    <string name="origin_title">Оригинальное название:</string>
+    <string name="rating_title">Рэйтинг:</string>
+    <string name="date_of_release">Дата выхода:</string>
+    <string name="overview">Описание:</string>
+    <string name="item_main_menu">Main</string>
+    <string name="item_favorite_menu">Favorite</string>
+</resources>

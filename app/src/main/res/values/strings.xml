@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="launch_trailer">launch trailer</string>
+    <string name="big_poster">Big poster</string>
+    <string name="popularity">Popularity</string>
+    <string name="rating">Rating</string>
+    <string name="movie_s_poster">Movie\'s poster</string>
+    <string name="title">Title:</string>
+    <string name="origin_title">Origin title:</string>
+    <string name="rating_title">Rating:</string>
+    <string name="date_of_release">Date of release:</string>
+    <string name="overview">Overview:</string>
+    <string name="item_main_menu">Main</string>
+    <string name="item_favorite_menu">Favorite</string>
+</resources>
